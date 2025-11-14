@@ -1,2 +1,2 @@
 # MITV4MGenRec
-Multi-identifier Leveraging Text-Visual Construction for Multimodal Generative Recommendation
+It was accepted by IEEE BigData 2025.
